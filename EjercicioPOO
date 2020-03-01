@@ -1,0 +1,17 @@
+Realizar un rograma en python que contenga las siguientes clases.
+    Clase persona,con atributos fecha nacimiento, curp, sexo
+    Empleado con atributos hora de entrada, hora de salida, salario + 1% 
+    ejecutivo salario, biaticos, nivel. CalcularPago = biaticos + salario
+
+realizar un programa para registrar a los empleados y ejecutivos, que me permita registrar asistencia de los empleados y calcular su salario mensual de ambos.
+
+Variables
+en python una variable se define con una sintaxis
+
+
+codifique una clase abstracta numeros con los siguientes numero
+sumar(N). Suma el numero n
+resta(N) resta
+multiplicar(N)
+dividir(N)
+toString
